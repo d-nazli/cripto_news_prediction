@@ -9,20 +9,20 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# NLTK veri setlerini indir (ilk çalıştırmada)
+
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
-# Model ve TF-IDF yükle
+
 with open("trained_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 with open("vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
-# Coin tespiti için basit bir fonksiyon
+
 def detect_coin(text):
     coins = ["BTC", "ETH", "XRP", "SOL", "ADA", "BNB", "DOGE", "LTC", "MATIC", "DOT"]
     for coin in coins:
@@ -30,7 +30,7 @@ def detect_coin(text):
             return coin
     return "Belirsiz"
 
-# Temizleme fonksiyonu
+
 def preprocess(text):
     text = text.lower()
     text = re.sub(r'\d+', '', text)
@@ -41,7 +41,7 @@ def preprocess(text):
     tokens = [lemmatizer.lemmatize(w) for w in tokens]
     return " ".join(tokens)
 
-# Streamlit arayüzü
+
 st.set_page_config(page_title="Kripto Haber Analiz", page_icon="🧠")
 st.title("🧠 Kripto Haber Güvenilirlik Tahmini")
 
