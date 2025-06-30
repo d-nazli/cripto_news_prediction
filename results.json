@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Ethereum Surpasses $4,000 as Institutional Interest Rises",
+    "confidence_score": 93.58,
+    "affected_coin": "ETH",
+    "prediction": "up"
+  },
+  {
+    "title": "SEC delays Ethereum ETF decision again",
+    "confidence_score": 70.02,
+    "affected_coin": "ETH",
+    "prediction": "up"
+  },
+  {
+    "title": "Dogecoin drops as Elon Musk distances from crypto",
+    "confidence_score": 52.57,
+    "affected_coin": "DOGE",
+    "prediction": "up"
+  },
+  {
+    "title": "Binance Announces Major Innovation Fund for Web3 Startups",
+    "confidence_score": 87.84,
+    "affected_coin": "UNKNOWN",
+    "prediction": "up"
+  },
+  {
+    "title": "Ethereum Upgrade Approved, Promises Faster Transactions",
+    "confidence_score": 84.47,
+    "affected_coin": "ETH",
+    "prediction": "up"
+  },
+  {
+    "title": "Regulatory Crackdown in Asia Threatens Crypto Market",
+    "confidence_score": 37.74,
+    "affected_coin": "UNKNOWN",
+    "prediction": "down"
+  },
+  {
+    "title": "SEC Files Lawsuit Against Major Blockchain Platform",
+    "confidence_score": 26.03,
+    "affected_coin": "UNKNOWN",
+    "prediction": "down"
+  },
+  {
+    "title": "Coinbase Faces Investigation Over Unlicensed Securities",
+    "confidence_score": 15.84,
+    "affected_coin": "UNKNOWN",
+    "prediction": "down"
+  },
+  {
+    "title": "Litecoin (LTC) faces backlash over privacy upgrade in South Korea",
+    "confidence_score": 71.39,
+    "affected_coin": "LTC",
+    "prediction": "up"
+  },
+  {
+    "title": "Dogecoin (DOGE) falls as Elon Musk distances from crypto tweets",
+    "confidence_score": 70.93,
+    "affected_coin": "DOGE",
+    "prediction": "up"
+  },
+  {
+    "title": "Polygon (MATIC) hacked: $20 million drained from liquidity pools",
+    "confidence_score": 27.35,
+    "affected_coin": "MATIC",
+    "prediction": "down"
+  },
+  {
+    "title": "bitcoinde fahiş fiyat",
+    "confidence_score": 41.79,
+    "affected_coin": "BTC",
+    "prediction": "down"
+  },
+  {
+    "title": "$20 million drained from liquidity pools",
+    "confidence_score": 33.4,
+    "affected_coin": "UNKNOWN",
+    "prediction": "down"
+  },
+  {
+    "title": "Ethereum Upgrade Approved, Promises Faster Transactions",
+    "confidence_score": 94.05,
+    "affected_coin": "ETH",
+    "prediction": "up"
+  }
+]

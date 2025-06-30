@@ -1,0 +1,3188 @@
+
+{
+    "news_analysis": [
+        {
+            "title": "Bitcoin Institutional Adoption Surges",
+            "confidence_score": 85,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "",
+            "source": "news_analysis",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 85,
+                "reason": "High institutional adoption confidence"
+            }
+        },
+        {
+            "title": "Ethereum Surpasses $4,000 as Institutional Interest Rises",
+            "confidence_score": 93.58,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "",
+            "source": "results",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 93.58,
+                "reason": "Strong institutional interest signal"
+            }
+        },
+        {
+            "title": "Ether, Dogecoin Surge Higher Than Bitcoin as DeFi Comments Spurs Bullish Mood",
+            "description": "Ether outpaces bitcoin on fresh institutional inflows and rising demand for tokenization, signaling a potential push towards its all-time high.",
+            "url": "https://www.coindesk.com/markets/2025/06/11/ether-dogecoin-surge-higher-than-bitcoin-as-defi-comments-spurs-bullish-mood",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:23:44Z",
+            "confidence_score": 98.24,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.716580",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 98.24,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin update to raise data limit on divisive OP_RETURN function",
+            "description": "Bitcoin users are divided after a Bitcoin Core dev said the data limit on OP_RETURN will be lifted in the next software update, allowing for more images and text on the Bitcoin blockchain.",
+            "url": "https://cointelegraph.com/news/bitcoin-op-return-data-limit-raise-next-update",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:28:19Z",
+            "confidence_score": 47.34,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "network_upgrade",
+            "analysis_timestamp": "2025-06-12T11:08:07.717658",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 47.34,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Michael Saylor rejects crypto winter fears, says Bitcoin ‘going to $1M’",
+            "description": "Strategy’s Michael Saylor claims that “all the evidence” indicates Bitcoin is unlikely to face another crypto winter anytime soon.",
+            "url": "https://cointelegraph.com/news/strategy-michael-saylor-rejects-crypto-winter-bitcoin-price-prediction",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:39:11Z",
+            "confidence_score": 75.44,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.718432",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 75.44,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin-buying GameStop drops as Q1 revenues miss estimates",
+            "description": "GameStop shares slid over 3.5% after-hours on Tuesday, falling to just above $29 after the video game retailer missed revenue estimates for Q1.",
+            "url": "https://cointelegraph.com/news/gamestop-drops-q1-revenue-misses-estimates",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:12:15Z",
+            "confidence_score": 17.72,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.719066",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 17.72,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin may struggle in Q3 as eyes turn to Ethereum’s ‘catch-up’ — Analysts",
+            "description": "The surge in calls for Bitcoin to reach new all-time highs may indicate that its price could remain sideways in the short term, while growing interest in Ether suggests it is attracting investors' attention, analysts say.",
+            "url": "https://cointelegraph.com/news/bitcoin-underperform-q3-prediction-ether-may-outperform-crypto-analysts",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:33:25Z",
+            "confidence_score": 67.34,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.719945",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 67.34,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "The Czech Bitcoin Scandal Developing – Here’s the Latest Update",
+            "description": "In May 2025, the Czech Republic found itself at the center of a political firestorm over a massive Bitcoin donation gone wrong. The 468 Bitcoin donation, worth nearly $50M, given to the Czech Ministry of Justice raises a lot of question by many important indi…",
+            "url": "https://www.mactrast.com/2025/06/the-czech-bitcoin-scandal-developing-heres-the-latest-update/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:36:54Z",
+            "confidence_score": 38.24,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "network_upgrade",
+            "analysis_timestamp": "2025-06-12T11:08:07.720810",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.24,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Crypto asset reserve bill lands in Ukraine’s parliament",
+            "description": "Ukrainian lawmakers registered a draft bill on a state crypto asset reserve in the Parliament, officially allowing the National Bank to include crypto in the country’s state reserves.",
+            "url": "https://cointelegraph.com/news/crypto-reserve-bill-ukraine-s-parliament",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:37:22Z",
+            "confidence_score": 32.84,
+            "affected_coin": "MKR",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.721653",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 32.84,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Australia's Largest Crypto Event - 10% off Tickets - Sydney, Nov 22-23, 2025 - Featuring Partners Binance, CoinSpot, and Swyftx",
+            "description": "Returning for the 4th year… Australia's largest crypto & blockchain event - the Australian Crypto Convention (auscryptocon.com). Key partners include Binance, CoinSpot & …",
+            "url": "https://www.ozbargain.com.au/node/910014",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:06:11Z",
+            "confidence_score": 34.09,
+            "affected_coin": "BNB",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.722905",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 34.09,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Asia Morning Briefing: Coinbase Premium, Not Bank of Japan Rates, Might be the Metric to Watch for BTC",
+            "description": "PLUS: DEX volume has nearly doubled in the last year.",
+            "url": "https://www.coindesk.com/markets/2025/06/10/asia-morning-briefing-coinbase-premium-not-bank-of-japan-rates-might-be-the-metric-to-watch-for-btc",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:15:56Z",
+            "confidence_score": 19.69,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.723600",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 19.69,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Nearing ATH, But Social Media FOMO Signals Warning",
+            "description": "Data shows Bitcoin sentiment on social media may be starting to become overheated, a sign that could end up being a threat to the price rally. Bitcoin Social Media Sentiment Is Currently Notably Positive In a new post on X, the analytics firm Santiment has di…",
+            "url": "https://bitcoinist.com/bitcoin-nearing-ath-social-media-fomo-end-rally/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:00:09Z",
+            "confidence_score": 35.97,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.724808",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 35.97,
+                "reason": "Moderate negative sentiment"
+            }
+        },
+        {
+            "title": "BlackRock: Bitcoin ETF Mania Is Still in ‘Very Early Days’",
+            "description": "BlackRock’s Head of Digital Assets, Robert Mitchnick, says the explosive success of the iShares Bitcoin Trust (IBIT) is only the beginning. Speaking with Bloomberg’s ETF IQ on June 9, Mitchnick described the Bitcoin ETF phenomenon as being in its “very early”…",
+            "url": "https://bitcoinist.com/blackrock-bitcoin-etf-mania-very-early-days/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:30:40Z",
+            "confidence_score": 66.77,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.726072",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 66.77,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Why Bitcoin’s Calm Rally Could Be a Setup for a Massive Breakout, Analyst Reveals",
+            "description": "Bitcoin has returned to an upward trajectory, with the asset posting a 1.7% gain in the last 24 hours to reach $109,505. This marks a 4% increase in the past week, placing the cryptocurrency less than 2% below its all-time high of $111,000 set last month. The…",
+            "url": "http://www.newsbtc.com/bitcoin-news/why-bitcoin-calm-rally-could-be-a-setup-for-a-massive-breakout-analyst-reveals/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:30:42Z",
+            "confidence_score": 93.56,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.727998",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 93.56,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin’s Next Big Move May Come From Tokyo, Not Wall Street, Arthur Hayes Says",
+            "description": "The coming Bank of Japan meeting on June 16–17 could shake up both stock markets and crypto trading around the world. Bitcoin traders especially are on edge. Arthur Hayes, co-founder of BitMEX, warned that a shift by the BOJ might send risk assets much higher…",
+            "url": "https://bitcoinist.com/bitcoins-next-big-move-may-come-from-tokyo-not-wall-street-arthur-hayes-says/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:30:09Z",
+            "confidence_score": 57.71,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.730222",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 57.71,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Stocks Worth Watching – June 9th",
+            "description": "MARA, Riot Platforms, and CleanSpark are the three Bitcoin stocks to watch today, according to MarketBeat’s stock screener tool. “Bitcoin stocks” is an informal term for shares of publicly traded companies whose primary business involves Bitcoin—whether throu…",
+            "url": "https://www.etfdailynews.com/2025/06/11/bitcoin-stocks-worth-watching-june-9th/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:06:58Z",
+            "confidence_score": 42.3,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.732579",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.3,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Crypto Analyst Predicts ‘Really Epic’ Next Few Months for Bitcoin, Sees Vertical Phase Coming for BTC",
+            "description": "An analyst known for making timely Bitcoin calls believes that BTC is poised to witness steep rallies in the coming months. In a new video, trader Kevin Svenson tells his 83,200 YouTube followers that Bitcoin appears to be in the final stages of a parabolic t…",
+            "url": "https://dailyhodl.com/2025/06/11/crypto-analyst-predicts-really-epic-next-few-months-for-bitcoin-sees-vertical-phase-coming-for-btc/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:04:05Z",
+            "confidence_score": 47.19,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.734331",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 47.19,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin LTHs Increase Holdings By 1.151M BTC – Will They Continue to HODL?",
+            "description": "Bitcoin is currently trading around critical levels, having recently surged past the $110,000 mark, a milestone that underscores its robust momentum. As of Tuesday, June 10, 2025, at 07:08 AM EDT, BTC hovers below its all-time high of $112,000, yet it demonst…",
+            "url": "https://bitcoinist.com/bitcoin-lths-increase-holdings-by-1-151m-btc-will-they-continue-to-hodl/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:00:25Z",
+            "confidence_score": 81.68,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.735536",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 81.68,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Peter Thiel-backed crypto exchange Bullish files for US IPO: FT",
+            "description": "Digital asset exchange Bullish has confidentially filed for a US IPO, aiming to capitalize on renewed crypto momentum and a favorable political climate.",
+            "url": "https://cointelegraph.com/news/peter-thiel-backed-bullish-files-us-ipo",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:50:36Z",
+            "confidence_score": 72.6,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.736590",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 72.6,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Rep. Timmons asks SEC for docs on agency’s past approach to Ethereum",
+            "description": "Republican Representative William Timmons has asked US Securities and Exchange Commission Chair Paul Atkins for documents on the agency’s historical approach to Ether.",
+            "url": "https://cointelegraph.com/news/sec-atkins-asked-docs-past-approach-to-ethereum",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:53:56Z",
+            "confidence_score": 42.51,
+            "affected_coin": "ETH",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.737639",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.51,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Why is crypto up today? Bitcoin in a short squeeze as U.S-China talks fuel rally",
+            "description": "Experts remain cautious despite the early week Bitcoin pump.",
+            "url": "https://ambcrypto.com/why-is-crypto-up-today-bitcoin-in-a-short-squeeze-as-u-s-china-talks-fuel-rally/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:00:53Z",
+            "confidence_score": 93.25,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.738187",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 93.25,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin tops $110K for 2nd day; altcoins UNI, AAVE rally on SEC Chair comments",
+            "description": "Bitcoin (BTC) traded above $110,000 for a second day, up over 1% in 24 hours, buoyed by altcoin rally. DeFi tokens UNI (+24%) and AAVE (+13%) surged following optimistic comments from SEC Chair Paul Atkins. Despite price gains, market sentiment remains cautio…",
+            "url": "https://coinjournal.net/news/bitcoin-tops-110k-for-2nd-day-altcoins-uni-aave-rally-on-sec-chair-comments/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:43:48Z",
+            "confidence_score": 83.62,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.739106",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 83.62,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Open Interest drops by $1B as traders back off: A drop to $106K next?",
+            "description": "Bitcoin Open Interest drops by $1 billion, indicating that large scale positions have started to unwind.",
+            "url": "https://ambcrypto.com/bitcoin-open-interest-drops-by-1b-as-traders-back-off-a-drop-to-106k-next/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:00:35Z",
+            "confidence_score": 6.54,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.739730",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 6.54,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Debt, Leverage, And Fiat Come To Bitcoin",
+            "description": "Debt, Leverage, And Fiat Come To Bitcoin\n \nAuthored by Kane McGukin via Bombthrower.com,\nMoney has always been strategic, providing the foundation of nations and empires for centuries.\nOwning capital and controlling its flow isn’t just about survival; it’s ab…",
+            "url": "https://biztoc.com/x/2b48432234546305",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:38Z",
+            "confidence_score": 50.72,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.740603",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 50.72,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Trump Family-Backed Bitcoin Mining Firm Acquires $23 Million Worth Of BTC, Signals More Accumulation In The Future",
+            "description": "American Bitcoin, a Bitcoin (CRYPTO: BTC) mining company backed by Eric Trump and Donald Trump Jr., bought millions worth of the apex cryptocurrency, according to a recent filing with the SEC.\nWhat Happened: The firm reported having 215 BTC in its reserve as …",
+            "url": "https://biztoc.com/x/f52483a82c5a1923",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:42:17Z",
+            "confidence_score": 43.18,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.741515",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 43.18,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "News: Testing $110K Level Again",
+            "description": "Bitcoin Rises to $110K as Altcoins Rally; Traders Skeptical of Breakout\nPositioning across crypto markets doesn't suggest a top, but neither does it seem ideal for continued rally.\nWhat to know:\n- Bitcoin is again testing the $110,000 level and just below a r…",
+            "url": "https://biztoc.com/x/1a90ece638ff2de2",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:04:35Z",
+            "confidence_score": 48.22,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.742355",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 48.22,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Flat, Ethereum, Dogecoin Climb Amid US-China Trade Consensus: Analyst Says ETH Could Target $2,920 Next",
+            "description": "Bitcoin was little changed on Tuesday even as the U.S. and China reached a trade consensus after London talks.\nCryptocurrency\nGains +/-\nPrice (Recorded at 9:45 p.m. ET)\nBitcoin (CRYPTO: BTC) \n-0.07%\n$109,635.63\nEthereum (CRYPTO: ETH) \n+2.64%\n$2,780.94\nDogecoi…",
+            "url": "https://biztoc.com/x/800aa6799dc65f56",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:17:57Z",
+            "confidence_score": 65.42,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.743428",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 65.42,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Why Strategy’s Bitcoin Buys Could Pose Long-Term Risks Despite Boosting Demand",
+            "description": "Swiss crypto bank Sygnum sees a potential concentration risk for Bitcoin that could deter central banks from adopting it as a reserve asset.",
+            "url": "https://decrypt.co/324540/strategys-bitcoin-buys-risks",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:13:09Z",
+            "confidence_score": 56.09,
+            "affected_coin": "BTC",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.744626",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 56.09,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Michael Saylor Urges Apple To “Buy Bitcoin” After Underwhelming Stock Buyback Program",
+            "description": "Apple should purchase Bitcoin amid the disappointing performance of its stock buyback plan. This is according to the CEO of Strategy.",
+            "url": "https://zycrypto.com/michael-saylor-urges-apple-to-buy-bitcoin-after-underwhelming-stock-buyback-program/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:23:23Z",
+            "confidence_score": 48.63,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.745704",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.63,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Steadies Near $110K as Traders Await Inflation Data, Fed Signals",
+            "description": "Bitcoin is trading close to two-week highs near $110,000 as investors await U.S. inflation data that may shape the Fed’s rate outlook.",
+            "url": "https://decrypt.co/324534/bitcoin-steadies-near-110k-as-traders-await-inflation-data-fed-signals",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:41:56Z",
+            "confidence_score": 59.63,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.746871",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 59.63,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin miner IREN unveils proposed $450 million convertible notes offering",
+            "description": "A part of the proceeds would be used to enter capped call transactions and prepaid forward transactions, the company said.",
+            "url": "https://biztoc.com/x/2baf6c5c59680991",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:48:58Z",
+            "confidence_score": 38.25,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.747982",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.25,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ethereum Charts Flash Rare Signal Not Seen in Years, Says Analyst",
+            "description": "In his latest macro-technical analysis, crypto strategist Kevin (@Kev_Capital_TA) has flagged a potentially pivotal moment for Ethereum (ETH), arguing that a confluence of rare monthly chart signals—some not seen in years—could be laying the groundwork for du…",
+            "url": "http://www.newsbtc.com/news/ethereum/ethereum-charts-rare-signal-not-seen-in-years/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:00:22Z",
+            "confidence_score": 59.6,
+            "affected_coin": "ETH",
+            "prediction": "neutral",
+            "strategy_name": "technical_analysis",
+            "analysis_timestamp": "2025-06-12T11:08:07.750264",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 59.6,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "After Denying Massacring Civilians Seeking Aid, Israel Routinely Massacres Civilians Seeking Aid",
+            "description": "…\nThe post After Denying Massacring Civilians Seeking Aid, Israel Routinely Massacres Civilians Seeking Aid appeared first on Global Research.",
+            "url": "https://www.caitlinjohnst.one/p/after-denying-massacring-civilians",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:37:43Z",
+            "confidence_score": 36.91,
+            "affected_coin": "BAL",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.751940",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 36.91,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ethereum derivatives top bitcoin with $110B daily volume as US ETFs, DeFi fuel momentum",
+            "description": "Analysts say continued inflows into spot ETH ETFs, renewed interest in DeFi and positive comments from the SEC elevated ether's position.",
+            "url": "https://biztoc.com/x/ad49e45faf355bec",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:09:02Z",
+            "confidence_score": 79.37,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.753170",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 79.37,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "All about South Korean President Lee’s new plans for stablecoin regulations",
+            "description": "Can South Korea truly outmanoeuvre the United States?",
+            "url": "https://ambcrypto.com/all-about-south-korean-president-lees-new-plans-for-stablecoin-regulations/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:00:34Z",
+            "confidence_score": 13.44,
+            "affected_coin": "UNI",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.754440",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 13.44,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Trump Tariffs Can Remain in Effect, US Appeals Court Says",
+            "description": "",
+            "url": "https://biztoc.com/x/93b8b472e6ec7af6",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:36Z",
+            "confidence_score": 53.85,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.755400",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 53.85,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "India’s State Oil Refiners Plan Tanker Order for Domestic Use",
+            "description": "",
+            "url": "https://biztoc.com/x/0ae455f79e15be2e",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:53:30Z",
+            "confidence_score": 32.6,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.756487",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 32.6,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Oil prices down, markets assess US-China trade talks outcome",
+            "description": "",
+            "url": "https://biztoc.com/x/1874d761c0dfd1ec",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:37:47Z",
+            "confidence_score": 54.91,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.757087",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 54.91,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "National Guard Providing Security for ICE Officers, US Says",
+            "description": "",
+            "url": "https://biztoc.com/x/f839ce721a5a1711",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:49:13Z",
+            "confidence_score": 30.58,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.757670",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 30.58,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Moody’s Downgrades Bonds of Warner Bros. Units After Split Plan",
+            "description": "",
+            "url": "https://biztoc.com/x/0100bcc2f433e865",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:49:17Z",
+            "confidence_score": 42.84,
+            "affected_coin": "UNI",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.758377",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.84,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "New Zealand central bank says former head quit over funding dispute",
+            "description": "",
+            "url": "https://biztoc.com/x/7ba5996fdc0dead6",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:31:34Z",
+            "confidence_score": 34.62,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.759006",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 34.62,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "NJ Congresswoman Indicted Over Scuffle at ICE Facility, US Says",
+            "description": "",
+            "url": "https://biztoc.com/x/533921e2f22f8c4b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:09:26Z",
+            "confidence_score": 40.81,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.759601",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.81,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "CoreWeave Says It Can Deliver Returns. These Analysts Are Skeptical",
+            "description": "",
+            "url": "https://biztoc.com/x/bd4709aa66523d90",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:20:14Z",
+            "confidence_score": 40.75,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.760207",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.75,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "The US and China Are Talking Again. Don’t Call It a Reset",
+            "description": "",
+            "url": "https://biztoc.com/x/ad69a4c2a9d30dfe",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:20:27Z",
+            "confidence_score": 29.18,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.760924",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 29.18,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Trump tariffs can remain for longer, US appeals court says",
+            "description": "",
+            "url": "https://biztoc.com/x/97ddf4b4c62589a0",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:04:38Z",
+            "confidence_score": 44.84,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.761510",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 44.84,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "NJ’s Sherrill, Ciattarelli Win Primaries in Governor’s Race",
+            "description": "",
+            "url": "https://biztoc.com/x/91f8a8381ba9932d",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:27:02Z",
+            "confidence_score": 91.06,
+            "affected_coin": "WIN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.762204",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 91.06,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Inflation might start to rise again due to tariffs. May CPI in Wall Street’s crosshairs",
+            "description": "",
+            "url": "https://biztoc.com/x/b2b797aa425b6b82",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:37:53Z",
+            "confidence_score": 85.87,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.762851",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 85.87,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Japan wholesale inflation slows in May",
+            "description": "",
+            "url": "https://biztoc.com/x/c7cbb47ab87745a5",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:34Z",
+            "confidence_score": 43.41,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.763831",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 43.41,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Trump tariffs may remain in effect while appeals proceed, U.S. Appeals court decides",
+            "description": "",
+            "url": "https://biztoc.com/x/4778b2276e4448bb",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:34Z",
+            "confidence_score": 51.54,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.764766",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 51.54,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Tesla's public robotaxi rides to start on June 22, tentatively, CEO Musk says",
+            "description": "",
+            "url": "https://biztoc.com/x/b6bc931d416ca762",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:36Z",
+            "confidence_score": 37.13,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.765708",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 37.13,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Gold Edges Higher Even as US and China Agree to Ease Trade War",
+            "description": "",
+            "url": "https://biztoc.com/x/c049a10f42bd153a",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:33Z",
+            "confidence_score": 48.81,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.766670",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.81,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "US, China agree to 'framework' for trade in London, officials say",
+            "description": "",
+            "url": "https://biztoc.com/x/78a65a80fc27e138",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:09:03Z",
+            "confidence_score": 38.11,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.767582",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.11,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Meta to pay nearly $15 billion for Scale AI stake, The Information reports",
+            "description": "",
+            "url": "https://biztoc.com/x/77f3d316a8835037",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:32Z",
+            "confidence_score": 35.0,
+            "affected_coin": "NEAR",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.768545",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 35.0,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Morgan Stanley Australia CEO Says IPOs, Deals Are Returning",
+            "description": "",
+            "url": "https://biztoc.com/x/b24317097ac6c091",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:42:40Z",
+            "confidence_score": 34.69,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.770307",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 34.69,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Nvidia, HPE to build new supercomputer in Germany",
+            "description": "",
+            "url": "https://biztoc.com/x/db058c473c9c0694",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:15:58Z",
+            "confidence_score": 52.1,
+            "affected_coin": "COMP",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.771501",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 52.1,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "FDA Announces Recall of Over 20 Million Eggs After Salmonella Outbreak in 7 States",
+            "description": "",
+            "url": "https://biztoc.com/x/3673d9479844fae4",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:15:53Z",
+            "confidence_score": 40.16,
+            "affected_coin": "ONE",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.772201",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.16,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Starbucks Adding Assistant Managers to Run Stores More Smoothly",
+            "description": "",
+            "url": "https://biztoc.com/x/f0bcc6ed776288d1",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:26:59Z",
+            "confidence_score": 45.42,
+            "affected_coin": "MANA",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.772952",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 45.42,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "U.S., China reach consensus on ‘framework’ for trade deal",
+            "description": "",
+            "url": "https://biztoc.com/x/a3cf64d4b170c661",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:04:50Z",
+            "confidence_score": 43.34,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.773573",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 43.34,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Taiwan Life Insurers’ $700 Billion Bet on the US Is Backfiring",
+            "description": "",
+            "url": "https://biztoc.com/x/741be3f03aff8589",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:53:52Z",
+            "confidence_score": 38.2,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.774105",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.2,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Asian Markets Await More Details on US-China Trade Talk Progress",
+            "description": "",
+            "url": "https://biztoc.com/x/bf68caa88d01d1d8",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:53:49Z",
+            "confidence_score": 40.71,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.774579",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.71,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Instant View-Analysts react to US-China trade agreement",
+            "description": "",
+            "url": "https://biztoc.com/x/0fca7f7103f2be33",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:31:41Z",
+            "confidence_score": 44.3,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.775044",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 44.3,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Dollar holds steady after US, China reach framework deal to ease export curbs",
+            "description": "",
+            "url": "https://biztoc.com/x/26e5f6b6c1f2fb50",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:48:54Z",
+            "confidence_score": 47.95,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.775556",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 47.95,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ares Seeks More Than $2 Billion for Asia Special Situations Fund",
+            "description": "",
+            "url": "https://biztoc.com/x/75b4d74f663e87c6",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:37:59Z",
+            "confidence_score": 26.96,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.776026",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 26.96,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "WIF price prediction – Stuck near $1-resistance, is a 20% correction ahead?",
+            "description": "Build-up of liquidation levels around $1-$1.1 hinted at a potential bearish reversal.",
+            "url": "https://ambcrypto.com/wif-price-prediction-stuck-near-1-resistance-is-a-20-correction-ahead/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:00:27Z",
+            "confidence_score": 54.25,
+            "affected_coin": "NEAR",
+            "prediction": "down",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.776727",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 54.25,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin’s $108K breakout: Is retail FOMO driving the market?",
+            "description": "Retail FOMO is rising as whales place high-leverage bets.",
+            "url": "https://ambcrypto.com/bitcoins-108k-breakout-is-retail-fomo-driving-the-market/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:00:09Z",
+            "confidence_score": 82.64,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.777354",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 82.64,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ethereum Price Eyes $3K Milestone—Momentum Builds as Buyers Return",
+            "description": "Ethereum price started a fresh increase above the $2,650 zone. ETH is now consolidating and eyes more gains above the $2,850 resistance. Ethereum started a fresh increase above the $2,750 level. The price is trading above $2,700 and the 100-hourly Simple Movi…",
+            "url": "http://www.newsbtc.com/analysis/eth/ethereum-price-eyes-3k/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:28:36Z",
+            "confidence_score": 83.61,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.778226",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 83.61,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bullish Files for IPO as Trump's Crypto Pivot Drives Demand: FT",
+            "description": "Peter Thiel-backed crypto exchange Bullish is pursuing a public listing and follows last week's successful debuts from the crypto industry.",
+            "url": "https://decrypt.co/324553/bullish-files-for-ipo-as-trumps-crypto-pivot-drives-demand-ft",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:14:51Z",
+            "confidence_score": 82.11,
+            "affected_coin": "FIL",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.778843",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 82.11,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Toncoin Heading Toward 40% Breakout, Pattern Could Suggest",
+            "description": "An analyst has pointed out how Toncoin (TON) is currently trading inside a Triangle pattern that could potentially set the stage up for a 40% move. Toncoin Has Been Stuck Inside A Triangle On The Daily Timeframe In a new post on X, analyst Ali Martinez has ta…",
+            "url": "http://www.newsbtc.com/toncoin-ton/toncoin-ton-toward-40-breakout-pattern-suggest/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:00:09Z",
+            "confidence_score": 66.43,
+            "affected_coin": "TON",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.780147",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 66.43,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Utility Stocks To Add to Your Watchlist – June 9th",
+            "description": "Tesla, Berkshire Hathaway, PG&E, Ford Motor, Riot Platforms, Eaton, and Etoro Group are the seven Utility stocks to watch today, according to MarketBeat’s stock screener tool. Utility stocks are shares of companies that provide essential public services—such …",
+            "url": "https://www.etfdailynews.com/2025/06/11/utility-stocks-to-add-to-your-watchlist-june-9th/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:10:54Z",
+            "confidence_score": 48.66,
+            "affected_coin": "TON",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.781122",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.66,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "A flaw could allow recovery of the phone number associated with any Google account",
+            "description": "A vulnerability could allow recovery of the phone number associated with a Google account by carrying out a brute force attack. The security researcher who goes online with the moniker “brutecat” discovered that it is possible to brute force the phone number …",
+            "url": "https://securityaffairs.com/178871/hacking/a-flaw-could-allow-recovery-of-the-phone-number-associated-with-any-google-account.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:05:44Z",
+            "confidence_score": 64.56,
+            "affected_coin": "ONE",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.782070",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 64.56,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Tron Booms With Fresh $1B in USDT, Yet Lending TVL Nosedives, What’s Next?",
+            "description": "Tron (TRX) has experienced positive price action recently, aligning with the upward trend seen across the broader cryptocurrency market. In the past 24 hours, TRX climbed approximately 3.9%, reaching a trading value of $0.294. Despite these recent gains, Tron…",
+            "url": "http://www.newsbtc.com/news/tron-trx/tron-booms-with-fresh-1b-in-usdt-yet-lending-tvl-nosedives-whats-next/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:00:28Z",
+            "confidence_score": 44.76,
+            "affected_coin": "TRX",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.783131",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 44.76,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Bank of Korea Governor to Meet Bank Chiefs as Stablecoin Debate Heats Up",
+            "description": "The upcoming meeting signals a shift in South Korea's approach to won-backed stablecoins as the new president eyes a regulatory overhaul.",
+            "url": "https://decrypt.co/324548/bank-korea-governor-bank-chiefs-stablecoin-debate",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:14:18Z",
+            "confidence_score": 4.63,
+            "affected_coin": "BAT",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.783832",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 4.63,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Aave surges 30% in 4 days: A sustained rally past $300 needs…",
+            "description": "A price drop toward the $285 zone, just above the former range high, would offer an attractive buying opportunity.",
+            "url": "https://ambcrypto.com/aave-surges-30-in-4-days-a-sustained-rally-past-300-needs/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:00:17Z",
+            "confidence_score": 99.72,
+            "affected_coin": "AAVE",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.784556",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 99.72,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Take your crypto mining to the next level with JU Miner. —risk-free and with a signup bonus to launch your journey.",
+            "description": "Start Earning Daily Cryptocurrency Income — Even If You’re New to It Let your money work for you in the background — no screens, no stress, no crypto trading skills required. Start Earning Daily Cryptocurrency Income — Even If You’re New to It Let your money …",
+            "url": "https://www.globenewswire.com/news-release/2025/06/11/3097253/0/en/Take-your-crypto-mining-to-the-next-level-with-JU-Miner-risk-free-and-with-a-signup-bonus-to-launch-your-journey.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:50:00Z",
+            "confidence_score": 46.58,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.785563",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 46.58,
+                "reason": "Moderate positive sentiment"
+            }
+        },
+        {
+            "title": "Vodafone Idea shares in focus after launching 5G services in Bengaluru",
+            "description": "Vodafone Idea (Vi) has launched its 5G services in Bengaluru, with commercial access starting June 11. This follows earlier rollouts in Mumbai, Delhi-NCR, Patna, and Chandigarh. Vi plans to expand 5G across all 17 priority circles by August 2025. Bengaluru us…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-in-focus-after-launching-5g-services-in-bengaluru/articleshow/121767730.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:05:59Z",
+            "confidence_score": 37.33,
+            "affected_coin": "ONE",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.786533",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 37.33,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Aditya Birla Capital shares up 3%; Advent International likely offloads stake in block deal",
+            "description": "Aditya Birla Capital shares went up 3% amid reports that Advent International has offloaded a stake in a block deal. The PE firm, which invested Rs 1,000 crore in 2020 in the stock, stands to earn a 138% return. A 30-day lock-in applies to the offloaded share…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-shares-up-3-advent-international-likely-offloads-stake-in-block-deal/articleshow/121767457.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:51:56Z",
+            "confidence_score": 55.78,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.787517",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 55.78,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Aditya Birla Capital shares in focus as Advent International offers 1.4% stake via Rs 856 crore block deal",
+            "description": "Aditya Birla Capital shares will be in focus as Advent International plans to sell a 1.4% stake via a Rs 856-crore block deal at Rs 237.81 per share, nearly 2% below the last NSE close. The PE firm, which invested Rs 1,000 crore in 2020, stands to earn a 138%…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-shares-in-focus-as-advent-international-offers-1-4-stake-via-rs-856-crore-block-deal/articleshow/121767093.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:29:00Z",
+            "confidence_score": 52.08,
+            "affected_coin": "NEAR",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.788575",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 52.08,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "XRP Price Takes a Breather—Consolidation Phase or Bullish Setup?",
+            "description": "XRP price started a fresh increase above the $2.265 zone. The price is now consolidating and might aim for an upward move above the $2.30 resistance. XRP price started a decent upward move above the $2.250 zone. The price is now trading above $2.250 and the 1…",
+            "url": "http://www.newsbtc.com/analysis/xrp/xrp-price-takes-a-breather-2-25/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:08:03Z",
+            "confidence_score": 81.42,
+            "affected_coin": "SOL",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.789456",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 81.42,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Top Cryptocurrency Stocks To Watch Now – June 9th",
+            "description": "Robinhood Markets, ZenaTech, Galaxy Digital, Bitdeer Technologies Group, HIVE Digital Technologies, Cellebrite DI, and Bitfarms are the seven Cryptocurrency stocks to watch today, according to MarketBeat’s stock screener tool. Cryptocurrency stocks are shares…",
+            "url": "https://www.etfdailynews.com/2025/06/11/top-cryptocurrency-stocks-to-watch-now-june-9th/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:06:54Z",
+            "confidence_score": 48.05,
+            "affected_coin": "GALA",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.791149",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.05,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Asian stocks to track US gains on trade talk hopes",
+            "description": "Asian stocks are poised to climb, mirroring Wall Street's upward trend, fueled by optimistic remarks from Commerce Secretary Howard Lutnick regarding US-China trade talks. Equity futures signal gains in Sydney, Tokyo, and Hong Kong, while Tesla spearheaded ad…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-to-track-us-gains-on-trade-talk-hopes/articleshow/121765296.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:01:21Z",
+            "confidence_score": 85.26,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.792814",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 85.26,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Owning 10,000 XRP? You’re Among Crypto’s Elite, Expert Claims",
+            "description": "According to crypto entrepreneur Edoardo Farina, most individual XRP holders could find themselves shut out as inflation and tight budgets squeeze their options. He argues that owning more than 10,000 XRP – which costs about $23,100 at a price of $2.31 per to…",
+            "url": "http://www.newsbtc.com/altcoin/owning-10000-xrp-youre-among-cryptos-elite-expert-claims/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:00:53Z",
+            "confidence_score": 40.48,
+            "affected_coin": "XRP",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.794357",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.48,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "IREN prices upsized $500 million convertible notes offering",
+            "description": "SYDNEY, June 11, 2025 (GLOBE NEWSWIRE) -- IREN Limited (NASDAQ: IREN) (ACN 629 842 799) (“IREN”) today announced the pricing of its offering of $500 million aggregate principal amount of 3.50% convertible senior notes due 2029 (the “notes”) in a private offer…",
+            "url": "https://www.globenewswire.com/news-release/2025/06/11/3097289/0/en/IREN-prices-upsized-500-million-convertible-notes-offering.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:24:00Z",
+            "confidence_score": 38.09,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.795548",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.09,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitget CEO Gracy Chen Featured in Coindesk's Top 50 Women in Web3 and AI",
+            "description": "Bitget CEO Gracy Chen recognized by CoinDesk as a top leader shaping the future of Web3 and AI innovation.......",
+            "url": "https://www.globenewswire.com/news-release/2025/06/11/3097286/0/en/Bitget-CEO-Gracy-Chen-Featured-in-Coindesk-s-Top-50-Women-in-Web3-and-AI.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:01:00Z",
+            "confidence_score": 54.93,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.796169",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 54.93,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Contrasting MARA (NASDAQ:MARA) & Magic Empire Global (NASDAQ:MEGL)",
+            "description": "Magic Empire Global (NASDAQ:MEGL – Get Free Report) and MARA (NASDAQ:MARA – Get Free Report) are both finance companies, but which is the better stock? We will compare the two companies based on the strength of their institutional ownership, risk, valuation, …",
+            "url": "https://www.etfdailynews.com/2025/06/11/contrasting-mara-nasdaqmara-magic-empire-global-nasdaqmegl/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:40:43Z",
+            "confidence_score": 37.93,
+            "affected_coin": "REN",
+            "prediction": "down",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.797016",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 37.93,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "'Bitcoin Baby' Soon To Be a Teenager",
+            "description": "\"Twelve years ago, a baby was born after someone used bitcoin to pay for a frozen egg IVF,\" writes longtime Slashdot reader bobdevine. \"I, for one, welcome...\"\n \nBlockworks tells the story of how it all came to be: In February 2012 -- almost two years after L…",
+            "url": "https://slashdot.org/story/25/06/10/2134219/bitcoin-baby-soon-to-be-a-teenager",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:00:00Z",
+            "confidence_score": 57.01,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.797942",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 57.01,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "CreditAccess Grameen shares in focus after securing $100 million syndicated loan from Asian banks",
+            "description": "CreditAccess Grameen has secured a $100 million syndicated loan from a consortium of Asian banks, led by Standard Chartered. The dual-currency facility—denominated in yen and dollars—will support eligible social projects. The microfinance-focused NBFC had ini…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-shares-in-focus-after-securing-100-million-syndicated-loan-from-asian-banks/articleshow/121766697.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:57:39Z",
+            "confidence_score": 8.04,
+            "affected_coin": "REN",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.798906",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 8.04,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Reliance Infra shares in focus after unit expands munitions tie-up with Germany's Diehl Defence",
+            "description": "Reliance Infrastructure subsidiary, Reliance Defence, expanded its strategic partnership with Germany's Diehl Defence to locally produce the Vulcano 155mm precision-guided munition system for the Indian Armed Forces. The collaboration is expected to generate …",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-infra-shares-in-focus-after-unit-expands-munitions-tie-up-with-germanys-diehl-defence/articleshow/121766099.cms",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:39:20Z",
+            "confidence_score": 43.87,
+            "affected_coin": "UNI",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.799858",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 43.87,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "GameStop may be a bitcoin play, but its stock is sliding on weaker-than-expected Q1 revenue - MarketWatch",
+            "description": "GameStop may be a bitcoin play, but its stock is sliding on weaker-than-expected Q1 revenueMarketWatch GameStop's first-quarter revenue declines as online gaming demand risesReuters GameStop (NYSE:GME) Reports Sales Below Analyst Estimates In Q1 EarningsYahoo…",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=178002665",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:54:19Z",
+            "confidence_score": 46.97,
+            "affected_coin": "BTC",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.800788",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 46.97,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "SEC Commissioner Peirce Speaks on Emerging Trends in Asset Management",
+            "description": "Thank you, Natasha [Vij Greiner]. Good morning and welcome to the Third Annual Conference on Emerging Trends in Asset Management. Before I begin, I must remind you that my views are my own as a Commissioner and not necessarily those …",
+            "url": "https://clsbluesky.law.columbia.edu/2025/06/11/sec-commissioner-peirce-speaks-on-emerging-trends-in-asset-management/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:01:25Z",
+            "confidence_score": 36.15,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.801673",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 36.15,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ether Prices Reach Highest Since February As ‘Perfect Storm’ Fuels Rally",
+            "description": "Ether prices rose to their highest value since February on Tuesday, June 10, as the digital currency benefited from a “perfect storm” of bullish factors.",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/06/10/ether-prices-reach-highest-since-february-as-perfect-storm-fuels-rally/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:17:07Z",
+            "confidence_score": 89.07,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.802387",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 89.07,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "XRP Ledger's Ethereum-Compaitable Sidechain to Go Live in Q2",
+            "description": "The testnet for the XRPL EVM sidechain has shown rapid growth.",
+            "url": "https://www.coindesk.com/markets/2025/06/11/xrp-ledger-s-ethereum-compaitable-sidechain-to-go-live-in-q2",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:43:34Z",
+            "confidence_score": 55.22,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.802942",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 55.22,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Danske Commodities signs deal with German energy purchasing group",
+            "description": "",
+            "url": "https://biztoc.com/x/4eb22de82dc4a756",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:37:33Z",
+            "confidence_score": 40.72,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.803404",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 40.72,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ether price hits 15-week high: Will $1.8B in short liquidations send ETH above $3K?",
+            "description": "A surge in Ethereum network activity and traders piling into futures contracts lined up with today’s rally above $2,800.",
+            "url": "https://cointelegraph.com/news/ether-price-hits-15-week-high-will-1-8b-in-short-liquidations-send-eth-above-3k",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:23:15Z",
+            "confidence_score": 34.27,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.804174",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 34.27,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Ether Technical Analysis: Prices Could Reach Mid-$3,000s Soon",
+            "description": "Ether prices, which have roughly doubled in the last few months, could be headed toward the mid-$3,000-range shortly, according to technical analysts.",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/06/10/ether-technical-analysis-prices-could-reach-mid-3000s-soon/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:42:57Z",
+            "confidence_score": 55.24,
+            "affected_coin": "ETH",
+            "prediction": "neutral",
+            "strategy_name": "technical_analysis",
+            "analysis_timestamp": "2025-06-12T11:08:07.804831",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 55.24,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ethereum Flashes Golden Cross On Daily Chart – Is A New ATH Within Reach?",
+            "description": "Ethereum (ETH), the second-largest cryptocurrency by market cap, may finally be awakening from its slumber. It recently flashed a bullish golden cross on the daily chart – a signal that has many crypto analysts forecasting a potential new all-time high (ATH) …",
+            "url": "http://www.newsbtc.com/ethereum-news/ethereum-flashes-golden-cross-on-daily-chart-is-a-new-ath-within-reach/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:30:33Z",
+            "confidence_score": 58.05,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.806050",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 58.05,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "cdklabs.cdk-ethereum-node 0.0.637",
+            "description": "CDK construct to deploy an Ethereum node running on Amazon Managed Blockchain",
+            "url": "https://pypi.org/project/cdklabs-cdk-ethereum-node/0.0.637/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:30:32Z",
+            "confidence_score": 41.79,
+            "affected_coin": "ETH",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.806618",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 41.79,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "XRP Ledger devs plan sidechain launch in Q2 for Ethereum compatibility",
+            "description": "XRP Ledger plans to launch an EVM sidechain in the second quarter of this year to gain Ethereum compatibility.",
+            "url": "https://biztoc.com/x/8eca9072af3937c8",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:53:13Z",
+            "confidence_score": 58.37,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.807223",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 58.37,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Could Ruvi AI (RUVI) Be a Young Ethereum? With $1.7M Raised and Over 1,500 Holders, Analysts Spot Similarities",
+            "description": "When Ethereum first emerged, it was viewed as an ambitious project that rewrote what a blockchain could achieve. Its focus on smart contracts and decentralized applications made it a pioneer, paving the way for over a million developers to innovate on its pla…",
+            "url": "https://zycrypto.com/could-ruvi-ai-ruvi-be-a-young-ethereum-with-1-7m-raised-and-over-1500-holders-analysts-spot-similarities/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:30:22Z",
+            "confidence_score": 50.5,
+            "affected_coin": "ETH",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.808175",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 50.5,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Swedish Support for Joining Euro Fades as Krona Strengthens",
+            "description": "",
+            "url": "https://biztoc.com/x/0cdf3b0a9bc7147b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:27Z",
+            "confidence_score": 84.79,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.808660",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 84.79,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Sources detail how X has used threats of lawsuits and high pressure tactics to motivate companies such as Amazon and Verizon to resume advertising on the site",
+            "description": "",
+            "url": "https://biztoc.com/x/24f661ee1145ae89",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:35Z",
+            "confidence_score": 23.22,
+            "affected_coin": "COMP",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.809256",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 23.22,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Zara owner Inditex reports weaker than expected first-quarter sales",
+            "description": "",
+            "url": "https://biztoc.com/x/608950005008c687",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:53:01Z",
+            "confidence_score": 29.47,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.809758",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 29.47,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Polestar restarts market expansion with France",
+            "description": "",
+            "url": "https://biztoc.com/x/aede642d7cccfc65",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:11:19Z",
+            "confidence_score": 36.31,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.810230",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 36.31,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Finland again summons Russian diplomat over a suspected airspace violation",
+            "description": "",
+            "url": "https://biztoc.com/x/497eb047bc2b2919",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:10:38Z",
+            "confidence_score": 34.57,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.811633",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 34.57,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "General Mills Is Said to Weigh Sale of China Häagen-Dazs Stores",
+            "description": "",
+            "url": "https://biztoc.com/x/32946fcc32095345",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:11:04Z",
+            "confidence_score": 31.54,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.813167",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 31.54,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "BoE's Saporta says banks should prepare to change approach to liquidity",
+            "description": "",
+            "url": "https://biztoc.com/x/9b1edc96f8559ff5",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:21:57Z",
+            "confidence_score": 16.53,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.814092",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 16.53,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Stocks Can Break Record Highs if These Things Go Right. That’s a Big If",
+            "description": "",
+            "url": "https://biztoc.com/x/31d32a5889e1f9d2",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:32:55Z",
+            "confidence_score": 53.16,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.815115",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 53.16,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Billionaire fund manager sends strong message on Fed Chair Powell's future",
+            "description": "",
+            "url": "https://biztoc.com/x/3e07084ce607d8aa",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:22:16Z",
+            "confidence_score": 46.39,
+            "affected_coin": "TRX",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.816074",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 46.39,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Demand destruction can help break China's rare earths chokehold",
+            "description": "",
+            "url": "https://biztoc.com/x/e6e79fc48f07d69b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:26:56Z",
+            "confidence_score": 48.0,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.816967",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.0,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "ECB, China's central bank renew cooperation agreement",
+            "description": "",
+            "url": "https://biztoc.com/x/60f8a90c9c6e9800",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:26:33Z",
+            "confidence_score": 7.13,
+            "affected_coin": "REN",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.817900",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 7.13,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Rising Asia temperatures bode well for US LNG export prospects",
+            "description": "",
+            "url": "https://biztoc.com/x/4e2857ceeb1b9323",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:26:30Z",
+            "confidence_score": 46.21,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.818411",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 46.21,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "China's latest trade truce with US leaves investors none the wiser",
+            "description": "",
+            "url": "https://biztoc.com/x/237618f5f2b2d468",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:21:56Z",
+            "confidence_score": 34.63,
+            "affected_coin": "ONE",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.818928",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 34.63,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Labubu Doll Fetches $150,000 at China Auction as Demand Rages",
+            "description": "",
+            "url": "https://biztoc.com/x/4b60a77b4f637d6d",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:26Z",
+            "confidence_score": 45.24,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.819433",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 45.24,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "FTSE 100 Live: UK Stocks Set to Slip After Missing Out on Record",
+            "description": "",
+            "url": "https://biztoc.com/x/101e19c5bccdfb80",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:35Z",
+            "confidence_score": 54.06,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.819974",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 54.06,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "How a Rice Shortage Spurred a National Crisis in Japan",
+            "description": "",
+            "url": "https://biztoc.com/x/b1c8a3a915adf4a8",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:52Z",
+            "confidence_score": 34.89,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.820480",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 34.89,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "US and China Agree on Plan to Cool Trade Tensions",
+            "description": "",
+            "url": "https://biztoc.com/x/4418ada2dbd6c740",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:32Z",
+            "confidence_score": 35.08,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.821002",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 35.08,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Tesla Stock Has Lost Its Trump Bump. How to Play the Shares Now",
+            "description": "",
+            "url": "https://biztoc.com/x/7068329829cd492e",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:04:04Z",
+            "confidence_score": 37.03,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.821530",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 37.03,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Germany's trade with Russia plummets since 2021",
+            "description": "",
+            "url": "https://biztoc.com/x/7b000877ef3285a3",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:45Z",
+            "confidence_score": 16.76,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.822019",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 16.76,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Hungary’s Inflation Rate Rises Again in Central Bank Challenge",
+            "description": "",
+            "url": "https://biztoc.com/x/3a8a8ae1197008c6",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:51Z",
+            "confidence_score": 60.56,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.822608",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 60.56,
+                "reason": "Moderate positive sentiment"
+            }
+        },
+        {
+            "title": "KKR Raises Offer for Assura, Valuing Landlord at £1.7 Billion",
+            "description": "",
+            "url": "https://biztoc.com/x/2c557c70bfdc15d8",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:58Z",
+            "confidence_score": 46.26,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.823114",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 46.26,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "EU Ready for Second Attempt at Australia Trade Deal, Envoy Says",
+            "description": "",
+            "url": "https://biztoc.com/x/77d64c1e1eabdecb",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:37Z",
+            "confidence_score": 37.12,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.823617",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 37.12,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Five Easy French Countryside Escapes That Pair Perfectly With Paris",
+            "description": "",
+            "url": "https://biztoc.com/x/1b6128aaedab9c2a",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:32Z",
+            "confidence_score": 39.06,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.824537",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 39.06,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Japan's shift to cashless society prods BOJ call for payment innovation",
+            "description": "",
+            "url": "https://biztoc.com/x/b976a282954527ce",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:21Z",
+            "confidence_score": 73.81,
+            "affected_coin": "UNKNOWN",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.825480",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 73.81,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Austrian police search for answers after mass shooting in school",
+            "description": "",
+            "url": "https://biztoc.com/x/42f44931a911fe7e",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:32Z",
+            "confidence_score": 43.25,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.826002",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 43.25,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Prudential India Asset Manager Is Said to Near IPO Filing",
+            "description": "",
+            "url": "https://biztoc.com/x/5c944efa3d4cdd1b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:15:52Z",
+            "confidence_score": 36.27,
+            "affected_coin": "NEAR",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.826505",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 36.27,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Fed to keep rates on hold at least until September as inflation risks linger",
+            "description": "",
+            "url": "https://biztoc.com/x/acdebbad4d5e64f1",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:04:29Z",
+            "confidence_score": 47.43,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.827068",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 47.43,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "The Great ETF Fee War Is Over. Investors Are Still the Winners",
+            "description": "",
+            "url": "https://biztoc.com/x/41f80fdf17525c02",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:37:29Z",
+            "confidence_score": 70.14,
+            "affected_coin": "WIN",
+            "prediction": "neutral",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.827577",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 70.14,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "EU Aims for US Trade Talks to Extend Past Trump’s July Deadline",
+            "description": "",
+            "url": "https://biztoc.com/x/17b6a7baba71c6ef",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:47Z",
+            "confidence_score": 50.36,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.828191",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 50.36,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Empowering Coffeehouse Leaders: Starbucks expands Assistant Manager Role across the U.S",
+            "description": "",
+            "url": "https://biztoc.com/x/a4ae9c93829c6ecb",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:26:31Z",
+            "confidence_score": 43.11,
+            "affected_coin": "MANA",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.828769",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 43.11,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "China Rare-Earth Magnet Maker Gets Green Light for US Exports",
+            "description": "",
+            "url": "https://biztoc.com/x/85863701a95b2e6a",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:26:35Z",
+            "confidence_score": 45.15,
+            "affected_coin": "MKR",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.829277",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 45.15,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Tariffs expected to lift underlying US consumer prices in May",
+            "description": "",
+            "url": "https://biztoc.com/x/3715a6185c685aa6",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:41Z",
+            "confidence_score": 49.26,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.829782",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 49.26,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "KKR tables 'best and final' $2.3 billion offer to buy UK's Assura",
+            "description": "",
+            "url": "https://biztoc.com/x/1364900df6ea60c5",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:47Z",
+            "confidence_score": 29.8,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.830293",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 29.8,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Germany's imports from Russia fall by 95% since start of Ukraine war",
+            "description": "",
+            "url": "https://biztoc.com/x/8121e37fc8cd2c08",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:48:45Z",
+            "confidence_score": 11.26,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.830805",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 11.26,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Capita to roll out AI-powered recruitment this summer",
+            "description": "",
+            "url": "https://biztoc.com/x/bb8d3e09dc16856b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:11:10Z",
+            "confidence_score": 44.5,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.831860",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 44.5,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Silver Breaks Out While Gold Stalls. What to Look for Next",
+            "description": "",
+            "url": "https://biztoc.com/x/2aab661786844811",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:10:37Z",
+            "confidence_score": 64.72,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.832992",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 64.72,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "BSE’s Shares Put Under Trading Caution as Stock Price Doubles",
+            "description": "",
+            "url": "https://biztoc.com/x/74c590157aa4870f",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:11:02Z",
+            "confidence_score": 37.44,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.833801",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 37.44,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Canada's WSP Global to acquire UK's Ricardo for $490 million",
+            "description": "",
+            "url": "https://biztoc.com/x/650a37a9c5d91e05",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:59:45Z",
+            "confidence_score": 23.2,
+            "affected_coin": "ADA",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.834536",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 23.2,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "AirAsia close to buying at least 100 Airbus jets in shift to A220, sources say",
+            "description": "",
+            "url": "https://biztoc.com/x/de6d9f0d9aec13c4",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:59:49Z",
+            "confidence_score": 42.47,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.835424",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.47,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Nissan supplier Marelli files for Chapter 11, secures $1.1 billion in new financing",
+            "description": "",
+            "url": "https://biztoc.com/x/866302b787399c4b",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:33:00Z",
+            "confidence_score": 42.12,
+            "affected_coin": "FIL",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.836135",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.12,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Chinese Exports Flood Southeast Asia on US Tariffs, Citi Says",
+            "description": "",
+            "url": "https://biztoc.com/x/3e08bdfe7c64bdd0",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:33:20Z",
+            "confidence_score": 45.05,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.837024",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 45.05,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "South Africa Statistics Chief Defends Jobless-Data Calculations",
+            "description": "",
+            "url": "https://biztoc.com/x/e26b010cebfa36e7",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:11:03Z",
+            "confidence_score": 35.17,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.837909",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 35.17,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Ripple's Brad Garlinghouse Says Circle IPO Signals U.S. Stablecoin Regulation Ahead",
+            "description": "Garlinghouse says he's \"bullish on stablecoins.\"",
+            "url": "https://www.coindesk.com/markets/2025/06/10/ripples-brad-garlinghouse-says-circle-ipo-signals-us-stablecoin-regulation-ahead",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:56:37Z",
+            "confidence_score": 25.47,
+            "affected_coin": "XRP",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.838892",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 25.47,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Dogecoin Jumps 5% as V-Shaped Recovery Shows Rising Demand",
+            "description": "DOGE showed resilience with strong volume patterns as speculation builds around potential ETF approval.",
+            "url": "https://www.coindesk.com/markets/2025/06/11/dogecoin-jumps-5-as-v-shaped-recovery-shows-rising-demand",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:22:36Z",
+            "confidence_score": 87.52,
+            "affected_coin": "DOGE",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.839877",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 87.52,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "XRP Consolidates Near $2.28 Amid Slew of Wins for Ripple, XRPL",
+            "description": "The XRP token is establishing key support levels, as per CoinDesk’s AI-driven analysis tool.",
+            "url": "https://www.coindesk.com/markets/2025/06/11/xrp-consolidates-near-228-amid-slew-of-wins-for-ripple-xrpl",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:27:04Z",
+            "confidence_score": 92.83,
+            "affected_coin": "SOL",
+            "prediction": "up",
+            "strategy_name": "technical_analysis",
+            "analysis_timestamp": "2025-06-12T11:08:07.840963",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 92.83,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Cryptocurrency firm Bullish confidentially files for US IPO, FT reports",
+            "description": "A unit of blockchain software company Block.one, Bullish had attempted to go public through a special purpose acquisition company deal in 2021 but that fell ...",
+            "url": "https://finance.yahoo.com/news/cryptocurrency-firm-bullish-confidentially-files-040930523.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:09:30Z",
+            "confidence_score": 78.47,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.842040",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 78.47,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Librarian Ghouls hacker group targeting Russians to mine crypto",
+            "description": "Cybersecurity firm Kaspersky says the Librarian Ghouls may be hacktivists, based on their reliance on legitimate, third-party utilities, a technique commonly associated with similar groups.",
+            "url": "https://cointelegraph.com/news/librarian-ghouls-hacking-group-cryptojack-hundreds-kaspersky",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:58:54Z",
+            "confidence_score": 28.26,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.843197",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 28.26,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "US House Financial Services Committee advances crypto CLARITY Act",
+            "description": "The CLARITY Act will move to the House floor after the House Financial Services Committee voted to advance the crypto market structure bill in a 32 to 19 vote.",
+            "url": "https://cointelegraph.com/news/clarity-act-passes-house-committee-financial-services",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:16:10Z",
+            "confidence_score": 28.33,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.844255",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 28.33,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "UK's OpenTrade Raises $7M to Expand Stablecoin Yield Access in Inflation-Hit Markets",
+            "description": "OpenTrade is expanding real-world asset-backed yield access in Latin America and Europe.",
+            "url": "https://www.coindesk.com/business/2025/06/10/uks-opentrade-raises-7m-to-expand-stablecoin-yield-access-in-inflation-hit-markets",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:00:00Z",
+            "confidence_score": 60.71,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.845238",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 60.71,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Crypto ‘altcoin ETF summer’ may come in July with SEC approvals: Analysts",
+            "description": "The SEC could approve Solana and crypto index ETFs as soon as next month, with analysts calling it the start of a possible “altcoin ETF summer.”",
+            "url": "https://cointelegraph.com/news/altcoin-etf-summer-july-sec-approvals-analysts",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:30:23Z",
+            "confidence_score": 60.9,
+            "affected_coin": "SOL",
+            "prediction": "neutral",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.846083",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 60.9,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Fortune 500’s interest in stablecoins triples from last year: Coinbase",
+            "description": "Nearly 30% of the 100 executives at a Fortune 500 firm said their company has plans or is interested in stablecoins, up from 8% who said the same last year.",
+            "url": "https://cointelegraph.com/news/stablecoin-interest-grows-fortune-500-coinbase-survey",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:43:01Z",
+            "confidence_score": 51.54,
+            "affected_coin": "NEAR",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.847271",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 51.54,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "CFPB’s top enforcer exits with scathing email on Trump: Report",
+            "description": "CFPB acting enforcement director Cara Petersen has resigned, criticizing the Trump administration for making it increasingly difficult to perform the agency’s tasks, Reuters reports.",
+            "url": "https://cointelegraph.com/news/cfpb-top-enforcer-criticizes-trump-resignation-email",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:12:46Z",
+            "confidence_score": 35.51,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.848520",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 35.51,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "South Korea Moves Forward With Crypto Regulation, Eyes Stablecoin Oversight",
+            "description": "A South Korean lawmaker has introduced a comprehensive bill aimed at establishing a more structured regulatory environment for crypto assets in the country. The proposed legislation, known as the Digital Asset Basic Act, was announced Tuesday by Min Byeong-de…",
+            "url": "https://bitcoinist.com/south-korea-moves-forward-with-crypto-regulation/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:00:08Z",
+            "confidence_score": 18.7,
+            "affected_coin": "MKR",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.849876",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 18.7,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Deadly Or Disruptive? XRP Gets The COVID-19 Comparison From Finance Expert",
+            "description": "Financial commentator Gary Cardone ignited a heated debate this week after he accused XRP of siding with authoritarian powers to stay relevant. His statements followed speculation that the European Central Bank (ECB) could use the XRP Ledger to power its upco…",
+            "url": "https://bitcoinist.com/deadly-or-disruptive-xrp-gets-the-covid-19-comparison-from-finance-expert/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:30:06Z",
+            "confidence_score": 32.33,
+            "affected_coin": "XRP",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.851205",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 32.33,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "NFTs quietly become digital infrastructure backbone as speculative trading drops 24%",
+            "description": "NFT trading volume fell 24% in Q1 2025 as focus shifts from speculation to utility-driven applications. Key sectors include gaming economies, AI agent identity systems and machine-to-machine authentication. Domain NFTs and real-world assets grew steadily desp…",
+            "url": "https://www.naturalnews.com/2025-06-11-nfts-quietly-become-digital-infrastructure-backbone.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:00:00Z",
+            "confidence_score": 15.01,
+            "affected_coin": "ONE",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.852834",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 15.01,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Connecticut enacts law banning state crypto reserves, investments",
+            "description": "Connecticut's new law prohibits all levels of government within the state from holding or investing in crypto assets.",
+            "url": "https://biztoc.com/x/5d6ef01bd6749208",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:28:54Z",
+            "confidence_score": 16.95,
+            "affected_coin": "UNKNOWN",
+            "prediction": "down",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.854650",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 16.95,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Elite Footballers Named in $3.4 Million Crypto Fraud Case",
+            "description": "A Barcelona court has launched a criminal probe into crypto firm Shirtum after star footballers allegedly promoted a failed NFT scheme.",
+            "url": "https://decrypt.co/324558/elite-footballers-named-3-4-million-crypto-fraud-case",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:30:27Z",
+            "confidence_score": 9.51,
+            "affected_coin": "CELO",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.856278",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 9.51,
+                "reason": "Moderate negative sentiment"
+            }
+        },
+        {
+            "title": "Feds Charge Crypto Founder With Evading US Sanctions, Laundering $500M",
+            "description": "In brief\n- U.S. authorities have charged Russian citizen Iurii Gugnin with multiple counts of bank fraud and sanctions evasion.\n- Gugunin is accused of using his NY-based crypto firms as a \"covert pipeline\" for Sberbank, VTB Bank, and Russia's nuclear company…",
+            "url": "https://biztoc.com/x/22119f82284f339e",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:15:51Z",
+            "confidence_score": 25.76,
+            "affected_coin": "RUNE",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.858066",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 25.76,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "CLARITY Act Clears Two House Committees, Heads to House Floor for Vote",
+            "description": "Two House committees have advanced the CLARITY Act, setting the stage for a floor vote that could shift primary crypto oversight.",
+            "url": "https://decrypt.co/324561/clarity-act-clears-two-house-committees",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:55:37Z",
+            "confidence_score": 30.38,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.859454",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 30.38,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Thiel-Backed Crypto Startup Bullish Files for US IPO, FT Says",
+            "description": "",
+            "url": "https://biztoc.com/x/9483ee0c07e7bf9c",
+            "source": "newsapi",
+            "published_at": "2025-06-11T03:28:53Z",
+            "confidence_score": 81.4,
+            "affected_coin": "FIL",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.860482",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 81.4,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Crypto group Bullish Global said to have filed for US IPO",
+            "description": "Bullish Global, a cryptocurrency exchange backed by billionaire Peter Thiel, has filed for a US initial public offering (IPO), the Financial Times reported, citing two people familiar with the situati...",
+            "url": "https://biztoc.com/x/113667e633a3181f",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:13:26Z",
+            "confidence_score": 78.9,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.861567",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 78.9,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Peter Thiel-backed crypto group Bullish files for Wall Street IPO",
+            "description": "Group seeking to tap a wave of enthusiasm for digital assets as Trump vows to cut regulations",
+            "url": "https://biztoc.com/x/8db23c2cd8693f19",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:44:20Z",
+            "confidence_score": 80.2,
+            "affected_coin": "FIL",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.862131",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 80.2,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Solana Spikes 4% As Report Signals Possible Green Light For ETF— Analyst Sets Approval Odds At 90%",
+            "description": "The Securities and Exchange Commission asked for revised S-1 forms from potential issuers of Solana (CRYPTO: SOL) spot Exchange-Traded Funds, according to a report dated Tuesday.\nWhat Happened: The SEC requested updated S-1 forms from prospective ETF issuers …",
+            "url": "https://biztoc.com/x/4d4f02eeecb421aa",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:13:20Z",
+            "confidence_score": 63.46,
+            "affected_coin": "SOL",
+            "prediction": "down",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.863039",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 63.46,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Ruvi AI’s (RUVI) Enjoying 50% Gains in Weeks With More Expected While ADA Struggles under $0.85",
+            "description": "Cardano (ADA) has long been a trusted name in the crypto space, holding its ground as a blockchain network focused on sustainability, security, and scalability. However, with its value now struggling to hold at $0.85, many question its ability to deliver shor…",
+            "url": "https://zycrypto.com/ruvi-ais-ruvi-enjoying-50-gains-in-weeks-with-more-expected-while-ada-struggles-under-0-85/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:30:17Z",
+            "confidence_score": 92.43,
+            "affected_coin": "ADA",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.863933",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 92.43,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Correction in One Surging Asset Could Trigger Rallies for Altcoin Markets, According to Analyst Michaël van de Poppe",
+            "description": "A widely followed crypto strategist thinks that a correction in one safe-haven asset will likely trigger risk-on behavior that could benefit altcoins. Analyst Michaël van de Poppe tells his 791,800 followers on the social media platform X that he’s keeping a …",
+            "url": "https://dailyhodl.com/2025/06/10/correction-in-one-surging-asset-could-trigger-rallies-for-altcoin-markets-according-to-analyst-michael-van-de-poppe/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:00:59Z",
+            "confidence_score": 79.18,
+            "affected_coin": "LTC",
+            "prediction": "down",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.864864",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 79.18,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Risky Business #795 -- How The Com is hacking Salesforce tenants",
+            "description": "On this week’s show Patrick Gray and Adam Boileau discuss the week’s cybersecurity news:\n\n<ul>\n <li>New York Times gets a little stolen Russian FSB data as a treat</li>\n <li>iVerify spots possible evidence of iOS exploitation against the Harris-Walz campaign<…",
+            "url": "https://risky.biz/RB795/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:57:30Z",
+            "confidence_score": 49.52,
+            "affected_coin": "ADA",
+            "prediction": "down",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.865732",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 49.52,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Comparative Analysis of South Korea's Digital Asset Basic Act and Major Countries' Digital Asset Laws",
+            "description": "South Korea's Digital Asset Basic Act (DABA), chiefly proposed by Representative Min Byung-deok, is the first comprehensive law covering virtual assets (cryptocurrencies), stablecoins, and related service providers. Below is a comparative analysis with the re…",
+            "url": "https://wisefree.tistory.com/573",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:31:34Z",
+            "confidence_score": 33.78,
+            "affected_coin": "REN",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.866651",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 33.78,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Next Gen NYC Recap: Don’t Be Tardy",
+            "description": "Charlie has drawn a line between the ‘Housewives’ children and the Bravo newcomers, which makes him a more valuable player than he might realize.",
+            "url": "http://www.vulture.com/article/next-gen-nyc-recap-episode-2-what-happens-in-brooklyn.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:00:36Z",
+            "confidence_score": 42.84,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.867305",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.84,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "BAKKT ALERT: Bragar Eagel & Squire, P.C. is Investigating Bakkt Holdings, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm",
+            "description": "NEW YORK, June 10, 2025 (GLOBE NEWSWIRE) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Bakkt Holdings, Inc. (NYSE:BKKT) on behalf of long-term stockholders following a class acti…",
+            "url": "https://www.globenewswire.com/news-release/2025/06/11/3097233/0/en/BAKKT-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-Bakkt-Holdings-Inc-on-Behalf-of-Long-Term-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:00:00Z",
+            "confidence_score": 44.72,
+            "affected_coin": "ONT",
+            "prediction": "up",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.868496",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 44.72,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "FreeBSD 14.3 Released",
+            "description": "Michael Larabel of Phoronix highlights the key updates in today's stable release of FreeBSD 14.3: FreeBSD 14.3 has back-ported a number of improvements from FreeBSD 15 back to the FreeBSD 14 series. Plus a number of routine package updates and other fixes. So…",
+            "url": "https://bsd.slashdot.org/story/25/06/10/2146224/freebsd-143-released",
+            "source": "newsapi",
+            "published_at": "2025-06-11T01:40:00Z",
+            "confidence_score": 33.21,
+            "affected_coin": "UNKNOWN",
+            "prediction": "neutral",
+            "strategy_name": "network_upgrade",
+            "analysis_timestamp": "2025-06-12T11:08:07.869293",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 33.21,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration",
+            "description": "",
+            "url": "https://biztoc.com/x/9f6a94a0395ad073",
+            "source": "newsapi",
+            "published_at": "2025-06-11T04:02:18Z",
+            "confidence_score": 71.99,
+            "affected_coin": "FIL",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.870206",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 71.99,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Cycle Performances Say Dogecoin Price Will Rally Above $2.28",
+            "description": "Dogecoin’s current trading range between $0.18 and $0.24 has largely mimicked the steady accumulation phases seen in past bull cycles. Although its price action appears muted on shorter timeframes, a technical analysis of broader market cycles shows that the …",
+            "url": "https://bitcoinist.com/dogecoin-will-rally-above-2-28/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:00:40Z",
+            "confidence_score": 94.18,
+            "affected_coin": "DOGE",
+            "prediction": "up",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.871424",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 94.18,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "The AI hype is just like the blockchain frenzy – here’s what happens when the hype dies",
+            "description": "Remember when everything was ‘blockchain’? AI will plateau just like other hyped-up technologies in the past – but that doesn’t make it useless.",
+            "url": "https://theconversation.com/the-ai-hype-is-just-like-the-blockchain-frenzy-heres-what-happens-when-the-hype-dies-258071",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:32:57Z",
+            "confidence_score": 42.43,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.872488",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.43,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Analysts Set Coinbase Global, Inc. (NASDAQ:COIN) PT at $266.10",
+            "description": "Shares of Coinbase Global, Inc. (NASDAQ:COIN) have earned an average recommendation of “Moderate Buy” from the twenty-one research firms that are currently covering the stock, Marketbeat Ratings reports. Eleven investment analysts have rated the stock with a …",
+            "url": "https://www.etfdailynews.com/2025/06/11/analysts-set-coinbase-global-inc-nasdaqcoin-pt-at-266-10/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:00:56Z",
+            "confidence_score": 58.06,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.874143",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 58.06,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitget CEO Gracy Chen Featured in Coindesk’s Top 50 Women in Web3 and AI",
+            "description": "VICTORIA, Seychelles, June 11, 2025 (GLOBE NEWSWIRE) — Bitget, the leading cryptocurrency exchange and Web3 company is excited to share that Gracy Chen, CEO of Bitget, has been featured in CoinDesk’s 2025 list of the Top 50 Women in Web3 and AI, an esteemed r…",
+            "url": "https://financialpost.com/globe-newswire/bitget-ceo-gracy-chen-featured-in-coindesks-top-50-women-in-web3-and-ai",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:04:23Z",
+            "confidence_score": 54.91,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.875919",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 54.91,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Dogecoin Cloud Mining Machine in 2025 – No Hardware Needed to Mine DOGE and Become a Dogecoin Millionaire",
+            "description": "South Brisbane, Australia, June  10, 2025  (GLOBE NEWSWIRE) --   Dogecoin Investment Plan with Powerful Cloud Mining Profitability   Are you searching...",
+            "url": "https://www.globenewswire.com/news-release/2025/06/11/3097246/0/en/Dogecoin-Cloud-Mining-Machine-in-2025-No-Hardware-Needed-to-Mine-DOGE-and-Become-a-Dogecoin-Millionaire.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T02:30:00Z",
+            "confidence_score": 54.72,
+            "affected_coin": "DOGE",
+            "prediction": "down",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.877512",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 54.72,
+                "reason": "Moderate negative sentiment"
+            }
+        },
+        {
+            "title": "Dogecoin: A 25% rally in sight! – But first, DOGE must clear THIS…",
+            "description": "DOGE traders stack longs and pull tokens off exchanges, here's why..",
+            "url": "https://ambcrypto.com/dogecoin-a-25-rally-in-sight-but-first-doge-must-clear-this/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:30:36Z",
+            "confidence_score": 86.95,
+            "affected_coin": "DOGE",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.878473",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 86.95,
+                "reason": "Strong positive sentiment"
+            }
+        },
+        {
+            "title": "Top Artificial Intelligence Stocks To Follow Today – June 9th",
+            "description": "Applied Digital, QUALCOMM, Super Micro Computer, Salesforce, and Tempus AI are the five Artificial Intelligence stocks to watch today, according to MarketBeat’s stock screener tool. Artificial intelligence stocks are shares of publicly traded companies whose …",
+            "url": "https://www.etfdailynews.com/2025/06/11/top-artificial-intelligence-stocks-to-follow-today-june-9th/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:36:49Z",
+            "confidence_score": 51.06,
+            "affected_coin": "COMP",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.879810",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 51.06,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Compass Point Reaffirms Neutral Rating for Applied Digital (NASDAQ:APLD)",
+            "description": "Applied Digital (NASDAQ:APLD – Get Free Report)‘s stock had its “neutral” rating reissued by stock analysts at Compass Point in a report released on Monday, MarketBeat reports. They presently have a $13.00 price target on the stock, up from their previous pri…",
+            "url": "https://www.etfdailynews.com/2025/06/11/compass-point-reaffirms-neutral-rating-for-applied-digital-nasdaqapld/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:44:53Z",
+            "confidence_score": 36.71,
+            "affected_coin": "COMP",
+            "prediction": "down",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.881146",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 36.71,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "‘No money, no dog’: Determined dog owner stops at nothing to get back his dog after his ex-girlfriend steals it, threatening to ‘invest’ all of her savings into crypto if she refuses to return his pup",
+            "description": "When you adopt a critter—a four-legged furbaby into the house who slobbers, cuddles, has zoomies, and barks at the mailman—your life is furever changed, whether you like it or not. Dogs have a way of cementing their pawresence in this world, claiming the corn…",
+            "url": "https://cheezburger.com/40942085/no-money-no-dog-determined-dog-owner-stops-at-nothing-to-get-back-his-dog-after-his-ex-girlfriend",
+            "source": "newsapi",
+            "published_at": "2025-06-11T07:23:14Z",
+            "confidence_score": 33.2,
+            "affected_coin": "ETH",
+            "prediction": "down",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.882672",
+            "strategy_decision": {
+                "action": "sell",
+                "confidence": 33.2,
+                "reason": "Strong negative sentiment"
+            }
+        },
+        {
+            "title": "Telegram is indistinguishable from an FSB honeypot",
+            "description": "Many people who focus on information security, including myself, have\nlong considered\nTelegram suspicious and untrustworthy.\nNow, based on findings\npublished by the investigative journalism outlet ISt",
+            "url": "https://rys.io/en/179.html",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:47:01Z",
+            "confidence_score": 38.15,
+            "affected_coin": "ONE",
+            "prediction": "neutral",
+            "strategy_name": "regulation_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.883807",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 38.15,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "cdklabs.cdk-hyperledger-fabric-network 0.8.895",
+            "description": "CDK construct to deploy a Hyperledger Fabric network running on Amazon Managed Blockchain",
+            "url": "https://pypi.org/project/cdklabs-cdk-hyperledger-fabric-network/0.8.895/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T00:27:25Z",
+            "confidence_score": 41.79,
+            "affected_coin": "MANA",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.884671",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 41.79,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Intelligent Protection Management (IPM) and Its Rivals Critical Survey",
+            "description": "Intelligent Protection Management (NASDAQ:IPM – Get Free Report) is one of 196 publicly-traded companies in the “Business services, not elsewhere classified” industry, but how does it compare to its rivals? We will compare Intelligent Protection Management to…",
+            "url": "https://www.etfdailynews.com/2025/06/11/intelligent-protection-management-ipm-and-its-rivals-critical-survey/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:08:54Z",
+            "confidence_score": 34.69,
+            "affected_coin": "MANA",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.885898",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 34.69,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Head-To-Head Comparison: Digihost Technology (NASDAQ:DGXX) versus Defi Technologies (NASDAQ:DEFT)",
+            "description": "Digihost Technology (NASDAQ:DGXX – Get Free Report) and Defi Technologies (NASDAQ:DEFT – Get Free Report) are both small-cap financial services companies, but which is the better investment? We will contrast the two businesses based on the strength of their d…",
+            "url": "https://www.etfdailynews.com/2025/06/11/head-to-head-comparison-digihost-technology-nasdaqdgxx-versus-defi-technologies-nasdaqdeft/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:04:52Z",
+            "confidence_score": 46.43,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.887265",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 46.43,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Critical Comparison: Defi Technologies (NASDAQ:DEFT) vs. Digihost Technology (NASDAQ:DGXX)",
+            "description": "Defi Technologies (NASDAQ:DEFT – Get Free Report) and Digihost Technology (NASDAQ:DGXX – Get Free Report) are both small-cap financial services companies, but which is the superior stock? We will compare the two companies based on the strength of their earnin…",
+            "url": "https://www.etfdailynews.com/2025/06/11/critical-comparison-defi-technologies-nasdaqdeft-vs-digihost-technology-nasdaqdgxx/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:40:44Z",
+            "confidence_score": 37.65,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.888497",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 37.65,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Brokerages Set Bitdeer Technologies Group (NASDAQ:BTDR) Target Price at $19.60",
+            "description": "Bitdeer Technologies Group (NASDAQ:BTDR – Get Free Report) has been assigned an average rating of “Buy” from the eleven ratings firms that are covering the firm, Marketbeat reports. Ten research analysts have rated the stock with a buy recommendation and one …",
+            "url": "https://www.etfdailynews.com/2025/06/11/brokerages-set-bitdeer-technologies-group-nasdaqbtdr-target-price-at-19-60/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T05:22:45Z",
+            "confidence_score": 48.84,
+            "affected_coin": "ONE",
+            "prediction": "neutral",
+            "strategy_name": "market_sentiment",
+            "analysis_timestamp": "2025-06-12T11:08:07.889720",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 48.84,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Contrasting Defi Technologies (NASDAQ:DEFT) & Digihost Technology (NASDAQ:DGXX)",
+            "description": "Digihost Technology (NASDAQ:DGXX – Get Free Report) and Defi Technologies (NASDAQ:DEFT – Get Free Report) are both small-cap financial services companies, but which is the better business? We will contrast the two businesses based on the strength of their div…",
+            "url": "https://www.etfdailynews.com/2025/06/11/contrasting-defi-technologies-nasdaqdeft-digihost-technology-nasdaqdgxx/",
+            "source": "newsapi",
+            "published_at": "2025-06-11T06:10:43Z",
+            "confidence_score": 42.88,
+            "affected_coin": "REN",
+            "prediction": "neutral",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.890942",
+            "strategy_decision": {
+                "action": "wait",
+                "confidence": 42.88,
+                "reason": "Neutral sentiment"
+            }
+        },
+        {
+            "title": "Bitcoin Surges to New High After Major Institutional Adoption",
+            "description": "Bitcoin price reaches new all-time high as institutional investors show strong interest.",
+            "confidence_score": 99.87,
+            "affected_coin": "BTC",
+            "prediction": "up",
+            "strategy_name": "institutional_adoption",
+            "analysis_timestamp": "2025-06-12T11:08:07.891846",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 99.87,
+                "reason": "Strong positive sentiment"
+            },
+            "detected_coins": [
+                [
+                    "BTC",
+                    4
+                ],
+                [
+                    "TRX",
+                    4
+                ]
+            ]
+        },
+        {
+            "title": "Ethereum Faces Regulatory Challenges Despite Recent Growth",
+            "description": "Ethereum network continues to grow but faces new regulatory hurdles.",
+            "confidence_score": 92.59,
+            "affected_coin": "ETH",
+            "prediction": "up",
+            "strategy_name": "news_impact",
+            "analysis_timestamp": "2025-06-12T11:08:07.892537",
+            "strategy_decision": {
+                "action": "buy",
+                "confidence": 92.59,
+                "reason": "Strong positive sentiment"
+            },
+            "detected_coins": [
+                [
+                    "ETH",
+                    4
+                ]
+            ]
+        }
+    ]
+}
