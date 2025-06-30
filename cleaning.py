@@ -4,12 +4,12 @@ import re
 import string
 import nltk
 
-# NLTK araçlarını içe aktar
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# Gerekli NLTK veri setlerini indir (ilk çalıştırmada)
+
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
